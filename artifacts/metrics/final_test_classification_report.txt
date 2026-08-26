@@ -1,0 +1,23 @@
+              precision    recall  f1-score   support
+
+    bluebell     1.0000    0.8000    0.8889         5
+   buttercup     1.0000    1.0000    1.0000         5
+  colts_foot     1.0000    1.0000    1.0000         5
+     cowslip     0.0000    0.0000    0.0000         5
+      crocus     0.8333    1.0000    0.9091         5
+    daffodil     0.5000    1.0000    0.6667         5
+       daisy     1.0000    1.0000    1.0000         5
+   dandelion     1.0000    1.0000    1.0000         5
+  fritillary     1.0000    1.0000    1.0000         5
+        iris     0.7143    1.0000    0.8333         5
+ lily_valley     1.0000    0.2000    0.3333         5
+       pansy     1.0000    1.0000    1.0000         5
+    snowdrop     0.7143    1.0000    0.8333         5
+   sunflower     1.0000    1.0000    1.0000         5
+   tigerlily     1.0000    1.0000    1.0000         5
+       tulip     1.0000    1.0000    1.0000         5
+  windflower     1.0000    1.0000    1.0000         5
+
+    accuracy                         0.8824        85
+   macro avg     0.8683    0.8824    0.8509        85
+weighted avg     0.8683    0.8824    0.8509        85

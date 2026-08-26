@@ -1,0 +1,32 @@
+{
+    "model_name": "Flower EfficientNetB0 Classifier",
+    "architecture": "EfficientNetB0",
+    "num_classes": 17,
+    "class_names": [
+        "bluebell",
+        "buttercup",
+        "colts_foot",
+        "cowslip",
+        "crocus",
+        "daffodil",
+        "daisy",
+        "dandelion",
+        "fritillary",
+        "iris",
+        "lily_valley",
+        "pansy",
+        "snowdrop",
+        "sunflower",
+        "tigerlily",
+        "tulip",
+        "windflower"
+    ],
+    "input_shape": [
+        224,
+        224,
+        3
+    ],
+    "output_activation": "softmax",
+    "artifact_format": "Keras .keras",
+    "purpose": "17-class flower image classification"
+}
