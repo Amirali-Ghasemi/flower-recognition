@@ -6,7 +6,7 @@ selective fine-tuning).
 
 | Test Accuracy | Top-3 Accuracy | Macro F1 | Test Samples |
 |:---:|:---:|:---:|:---:|
-| **88.24%** | 100% | 0.8509 | 85 |
+| **88.24%** | **96.47%** | **0.8483** | 85 |
 
 ---
 

@@ -33,7 +33,7 @@ APP_TAGLINE = "Flower Species Classifier · EfficientNetB0 Transfer Learning"
 
 TEST_METRICS = {
     "accuracy": 0.8824,
-    "top_3_accuracy": 1.0000,
-    "macro_f1": 0.8509,
+    "top_3_accuracy": 96.47,
+    "macro_f1": 0.8483,
     "test_samples": 85,
 }
