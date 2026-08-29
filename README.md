@@ -18,6 +18,8 @@ flower_recognition/
 ├── requirements.txt
 ├── .streamlit/
 │   └── config.toml             # App theme configuration
+├── assets/
+│   └── streamlit_demo.png      # Demo screenshot
 ├── src/
 │   ├── config.py               # Paths, constants, reported test metrics
 │   ├── inference.py            # Cached model loading & prediction logic
@@ -33,6 +35,10 @@ flower_recognition/
 │   └── plots/                  # Learning curves & confusion matrix
 └── 17_flowers/                 # Dataset — NOT in git, see "Dataset" below
 ```
+
+## Demo
+
+![BloomID Demo](assets/streamlit_demo.png)
 
 ## Features
 

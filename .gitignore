@@ -1,9 +1,9 @@
-# --- Virtual environments ---
+# Virtual environments
 .venv/
 venv/
 env/
 
-# --- Python caches & build artifacts ---
+# Python caches & build artifacts
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -13,35 +13,36 @@ dist/
 .ruff_cache/
 .mypy_cache/
 
-# --- Jupyter ---
+# Jupyter
 .ipynb_checkpoints/
 
-# --- Dataset (64 MB of images - download separately, see README) ---
+# Dataset (64 MB of images - download separately, see README)
 17_flowers/
+splits/
 
-# --- Intermediate training checkpoints (keep only production_artifacts/) ---
+# Intermediate training checkpoints (keep only production_artifacts/)
 artifacts/checkpoints/phase1_best_feature_extractor.keras
 artifacts/checkpoints/phase2_best_finetuned_model.keras
 
-# --- Model training scratch files ---
+# Model training scratch files
 *.h5
 *.hdf5
 *.ckpt
 pretrained_weights/
 
-# --- Environment / secrets ---
+# Environment / secrets
 .env
 .env.*
 
-# --- OS / IDE ---
+# OS / IDE
 .DS_Store
 Thumbs.db
 desktop.ini
 .idea/
 .vscode/
 
-# --- Streamlit runtime ---
+#   Streamlit runtime
 .streamlit/secrets.toml
 
-# --- Logs ---
+# Logs
 *.log
