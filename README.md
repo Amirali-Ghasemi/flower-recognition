@@ -16,6 +16,11 @@ selective fine-tuning).
 
 ---
 
+## Demo
+
+<video src="https://github.com/user-attachments/assets/ad612af2-680b-4d99-b9da-075f6b1135ce" controls width="100%"></video>
+
+
 ## Project Structure
 
 ```
@@ -41,11 +46,6 @@ flower_recognition/
 │   └── plots/                  # Learning curves & confusion matrix
 └── 17_flowers/                 # Dataset — NOT in git, see "Dataset" below
 ```
-
-## Demo
-
-<video src="https://github.com/user-attachments/assets/ad612af2-680b-4d99-b9da-075f6b1135ce" controls width="100%"></video>
-
 
 ## Features
 
