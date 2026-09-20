@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # 🌼 BloomID — Flower Species Classifier
 
 Production-ready web app for a **17-class flower image classifier** built with transfer
@@ -38,7 +44,8 @@ flower_recognition/
 
 ## Demo
 
-![BloomID Demo](assets/streamlit_demo.png)
+<video src="https://github.com/user-attachments/assets/ad612af2-680b-4d99-b9da-075f6b1135ce" controls width="100%"></video>
+
 
 ## Features
 
